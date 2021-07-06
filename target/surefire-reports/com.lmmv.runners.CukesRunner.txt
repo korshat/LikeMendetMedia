@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.lmmv.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.171 s <<< FAILURE! - in com.lmmv.runners.CukesRunner
+initializationError(com.lmmv.runners.CukesRunner)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.AbstractMethodError: io.cucumber.junit.JUnitCucumberOptionsProvider$JunitCucumberOptions.tags()Ljava/lang/String;
+
